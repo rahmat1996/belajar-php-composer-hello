@@ -1,0 +1,19 @@
+{
+    "name": "rahmat/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rahmat\\Belajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahmat",
+            "email": "rahmat14121996@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
