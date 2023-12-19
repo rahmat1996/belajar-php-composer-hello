@@ -9,12 +9,12 @@ class ComposerStaticInit23c3abcff459ad9f586f6deec352c65a
     public static $prefixLengthsPsr4 = array (
         'R' => 
         array (
-            'Rahmat\\BelajarPhpComposerHello\\' => 31,
+            'Rahmat\\Belajar\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Rahmat\\BelajarPhpComposerHello\\' => 
+        'Rahmat\\Belajar\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
